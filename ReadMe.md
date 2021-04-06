@@ -1,0 +1,1 @@
+selfiebox-kiosk
